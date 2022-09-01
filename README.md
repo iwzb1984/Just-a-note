@@ -7,7 +7,8 @@
 * 中国第三次人口高峰 1986-1990 传代的回声潮      5年出生人口1亿1千万人。
 
 
-<img src="https://raw.githubusercontent.com/iwzb1984/Just-a-note/main/R-C.png" width="600">
+<img src="https://raw.githubusercontent.com/iwzb1984/Just-a-note/main/R-C.png" width="600">  
+
 > 在统计学层面上，可以对社会中不同年龄阶段的人进行消费类型的区分
 >> 一个人在低端劳动力市场50岁左右会退出，2012年往后，60年代婴儿潮的人口陆续退出，加上人口教育水平和综合素质的提升，低端劳动力市场会出现供不应求，低端市场进而会提高待遇水平，因此压力就来到了大学生就业。    
 >> 
